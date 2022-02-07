@@ -27,11 +27,6 @@
   </a> 
 </p>
 
-
-- 🎓 I’m currently studying a BSc. Data Science at the [IT University of Copenhagen](https://en.itu.dk/) 
-- 💡 I’m especially interested in Algorithms and Data Structures and Machine Learning learning **Go and Algorithms**
-- 📫 Reach me at [contact@jonas-mika.de](mailto:contact@jonas-mika.de) 
-
 -------
 
 📊 **Weekly Development Stats**
