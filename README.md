@@ -10,7 +10,7 @@
   </a> 
   <a href="https://www.instagram.com/mikasenghaas/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=red" /></a> 
   <a 
-    href="https://www.linkedin.com/in/thomas-guibert" 
+    href="https://www.linkedin.com/in/jonas-mika-senghaas/" 
     target="_blank">
     <img 
       alt="LinkedIn" 
